@@ -5,7 +5,7 @@ La idea es practicar conceptos básicos y compartir el progreso de lo que aprend
 
 ## Contenido
 
-- **inex.html** -> Es un archivo principal de una página wen en html. Es algo sencillo, una prueba.
+- **inex.html** -> Es un archivo principal de una página web en html. Es algo sencillo, una prueba.
 - **libros.xml** -> Es un archivo XML donde se estructuran datos.
 - **presentacion.md** -> Es un archivo en formato Markdown que contiene una presentación.
 
