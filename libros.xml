@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UFT-8"?>
+<libros>
+    <primero>
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <año>1605/1615</año>
+        <genero>Novela</genero>
+    </primero>
+    <segundo>
+        <titulo>Orgullo y prejuicio</titulo>
+        <autor>Jane Austen</autor>
+        <año>1813</año>
+        <genero>Novela</genero>
+    </segundo>
+    <tercero>
+        <titulo>Crimen y castigo</titulo>
+        <autor>Fiódor Dostoyevski</autor>
+        <año>1866</año>
+        <genero>Novela psicológica</genero>
+    </tercero>
+</libros>
